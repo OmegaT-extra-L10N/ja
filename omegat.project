@@ -47,6 +47,9 @@
                 <mapping local="/source/omt-package/omt-package.properties" repository="/plugin-omt-package/master/src/main/resources/omt-package.properties"/>
 		<mapping local="/source/omegat-plugin-fuzzy-issues/fuzzy-issues.properties" repository="/omegat-plugin-fuzzy-issues/master/src/main/resources/fuzzy-issues.properties"/>
             </repository>
+	    <repository type="http" url="https://raw.githubusercontent.com/miurahr">
+                <mapping local="/source/textra/TextraMachineTranslation.properties" repository="/omegat-textra-plugin/master/src/main/resources/tokyo/northside/omegat/textra/TextraMachineTranslation.properties"/>
+            </repository>
             <repository type="http" url="https://raw.githubusercontent.com/OmegaT-L10N/ja/master">
                 <mapping local="/tm/JA.tmx" repository="/omegat/project_save.tmx"/>
 		<mapping local="/glossary/OmegaT-L10N.txt" repository="/glossary/glossary.txt"/>

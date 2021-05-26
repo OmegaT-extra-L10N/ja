@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Goto Line</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T231124Z" creationid="miurahr" creationdate="20210526T231124Z">
+        <seg>Goto Line</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML files (Okapi)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210526T141725Z" creationid="miurahr" creationdate="20210526T141725Z">

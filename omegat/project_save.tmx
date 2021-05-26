@@ -46,10 +46,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy Match</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141920Z" creationid="miurahr" creationdate="20210526T141920Z">
+        <seg>ファジーマッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Matches Issues</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141924Z" creationid="miurahr" creationdate="20210526T141915Z">
+        <seg>ファジーマッチの問題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML files (Okapi)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210526T141725Z" creationid="miurahr" creationdate="20210526T141725Z">
         <seg>HTMLファイル(OKAPI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>InDesign IDML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141738Z" creationid="miurahr" creationdate="20210526T141738Z">
+        <seg>InDesign IDMLファイル(Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +94,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>JSON files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141740Z" creationid="miurahr" creationdate="20210526T141740Z">
+        <seg>JSONファイル(Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Markdown files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141742Z" creationid="miurahr" creationdate="20210526T141742Z">
+        <seg>Markdownファイル(Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Missing Path</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210526T141608Z" creationid="miurahr" creationdate="20210526T141556Z">
         <seg>未使用のパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No &lt;xliff&gt; element found.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141831Z" creationid="miurahr" creationdate="20210526T141831Z">
+        <seg>&lt;xliff&gt;要素が見つかりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +138,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210526T141638Z" creationid="miurahr" creationdate="20210526T141638Z">
         <seg>プロジェクトフォルダーがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No element in the file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141834Z" creationid="miurahr" creationdate="20210526T141834Z">
+        <seg>ファイルにエレメントがありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +174,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141744Z" creationid="miurahr" creationdate="20210526T141744Z">
+        <seg>OpenXMLファイル(Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack and delete project...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141956Z" creationid="miurahr" creationdate="20210526T141956Z">
+        <seg>プロジェクトのパックと削除...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack project as OMT file...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141951Z" creationid="miurahr" creationdate="20210526T141951Z">
+        <seg>プロジェクトをOMTファイルとしてパック...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210526T141540Z" creationid="miurahr" creationdate="20210526T141540Z">
@@ -126,10 +206,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Qt TS files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141758Z" creationid="miurahr" creationdate="20210526T141747Z">
+        <seg>Qt TSファイル(Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL-XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141753Z" creationid="miurahr" creationdate="20210526T141746Z">
+        <seg>SDL-XLIFFファイル(Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment beginning with a fuzzy match prefix</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141938Z" creationid="miurahr" creationdate="20210526T141938Z">
+        <seg>ファジーマッチプレフィックスで始まるセグメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a Filter Parameters File</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210526T141550Z" creationid="miurahr" creationdate="20210526T141550Z">
         <seg>フィルターパラメータファイルを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the OMT package to import</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T142006Z" creationid="miurahr" creationdate="20210526T142006Z">
+        <seg>インポートするOMTパッケージの選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TagEditor TTX files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141801Z" creationid="miurahr" creationdate="20210526T141801Z">
+        <seg>TagEditor TTXファイル(Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The parameters file does not exist.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210526T141627Z" creationid="miurahr" creationdate="20210526T141627Z">
@@ -158,10 +278,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The version attribute is missing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141828Z" creationid="miurahr" creationdate="20210526T141828Z">
+        <seg>バージョン属性がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transifex project files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141810Z" creationid="miurahr" creationdate="20210526T141810Z">
+        <seg>Transifexプロジェクトファイル(Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to determine the project folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210526T141653Z" creationid="miurahr" creationdate="20210526T141653Z">
         <seg>プロジェクトフォルダーを特定できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack project from OMT file...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141948Z" creationid="miurahr" creationdate="20210526T141948Z">
+        <seg>OMTファイルからプロジェクトを展開...</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +322,54 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210526T095039Z" creationid="miurahr" creationdate="20210526T095039Z">
         <seg>次のフィルターパラメータファイルを使用する:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordfast Pro TXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141804Z" creationid="miurahr" creationdate="20210526T141804Z">
+        <seg>Wordfast Pro TXMLファイル(Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141817Z" creationid="miurahr" creationdate="20210526T141811Z">
+        <seg>XLIFFファイル(Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF-2 files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141825Z" creationid="miurahr" creationdate="20210526T141825Z">
+        <seg>XLIFF-2 ファイル (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Filter)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141855Z" creationid="miurahr" creationdate="20210526T141837Z">
+        <seg>XMLファイル(Okapi-XMLフィルター)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Stream Filter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141849Z" creationid="miurahr" creationdate="20210526T141840Z">
+        <seg>XMLファイル(Okapi-XMLストリームフィルター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YAML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141903Z" creationid="miurahr" creationdate="20210526T141841Z">
+        <seg>YAMLファイル(Okapi)</seg>
       </tuv>
     </tu>
     <tu>

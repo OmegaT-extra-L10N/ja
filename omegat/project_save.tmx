@@ -6,10 +6,50 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T095006Z" creationid="miurahr" creationdate="20210526T094933Z">
+        <seg>フィルター設定は現在 &lt;b&gt;プロジェクト専用設定&lt;/b&gt;です。&lt;br&gt;しかし、ここで "OK"をクリックすれば、こちらにパラメーターがコピーされます:&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the name of the translation unit in comments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T141529Z" creationid="miurahr" creationdate="20210526T141529Z">
+        <seg>翻訳単位名をコメントに含める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210526T094507Z" creationid="miurahr" creationdate="20210526T094507Z">
         <seg>Okapi フィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T094805Z" creationid="miurahr" creationdate="20210526T094805Z">
+        <seg>Okapi XLIFFフィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the default filter settings (%s)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T095001Z" creationid="miurahr" creationdate="20210526T095001Z">
+        <seg>デフォルトのフィルター設定にする (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the following filter parameters file:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210526T095039Z" creationid="miurahr" creationdate="20210526T095039Z">
+        <seg>次のフィルターパラメータファイルを使用する:</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

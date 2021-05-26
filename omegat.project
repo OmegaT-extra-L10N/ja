@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<omegat>
+    <project version="1.0">
+        <source_dir>__DEFAULT__</source_dir>
+        <source_dir_excludes>
+            <mask>**/.svn/**</mask>
+            <mask>**/CVS/**</mask>
+            <mask>**/.cvs/**</mask>
+            <mask>**/desktop.ini</mask>
+            <mask>**/~$*</mask>
+            <mask>**/.~lock.*</mask>
+            <mask>**/.ignore/**</mask>
+            <mask>**/Thumbs.db</mask>
+            <mask>**/.DS_Store</mask>
+        </source_dir_excludes>
+        <target_dir>__DEFAULT__</target_dir>
+        <tm_dir>__DEFAULT__</tm_dir>
+        <glossary_dir>__DEFAULT__</glossary_dir>
+        <glossary_file>__DEFAULT__</glossary_file>
+        <dictionary_dir>__DEFAULT__</dictionary_dir>
+        <source_lang>en</source_lang>
+        <target_lang>***</target_lang>
+        <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
+        <target_tok>org.omegat.tokenizer.***Tokenizer</target_tok>
+        <sentence_seg>true</sentence_seg>
+        <support_default_translations>true</support_default_translations>
+        <remove_tags>false</remove_tags>
+        <external_command></external_command>
+        <repositories>
+            <repository type="git" url="https://github.com/OmegaT-extra-L10N/***.git">
+                <mapping local="/" repository="/"/>
+            </repository>
+            <repository type="http" url="https://bitbucket.org/okapiframework/omegat-plugin/raw/dev">
+                <mapping local="/source/okapiFiltersPlugin/omegat-okapi-plugin.properties" repository="/filters/src/main/resources/omegat-okapi-plugin.properties"/>
+            </repository>
+            <repository type="http" url="https://raw.githubusercontent.com/bobbylight">
+                <mapping local="/source/RSyntaxTextArea/rsyntaxtextarea/ErrorStrip.properties" repository="/RSyntaxTextArea/master/RSyntaxTextArea/src/main/resources/org/fife/ui/rsyntaxtextarea/ErrorStrip.properties"/>
+                <mapping local="/source/RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties" repository="/RSyntaxTextArea/master/RSyntaxTextArea/src/main/resources/org/fife/ui/rsyntaxtextarea/RSyntaxTextArea.properties"/>
+                <mapping local="/source/RSyntaxTextArea/rsyntaxtextarea/focusabletip/FocusableTip.properties" repository="/RSyntaxTextArea/master/RSyntaxTextArea/src/main/resources/org/fife/ui/rsyntaxtextarea/focusabletip/FocusableTip.properties"/>
+                <mapping local="/source/RSyntaxTextArea/rtextarea/RTextArea.properties" repository="/RSyntaxTextArea/master/RSyntaxTextArea/src/main/resources/org/fife/ui/rtextarea/RTextArea.properties"/>
+                <mapping local="/source/RSTAUI/ui/GoToDialog.properties" repository="/RSTAUI/master/RSTAUI/src/main/resources/org/fife/rsta/ui/GoToDialog.properties"/>
+                <mapping local="/source/RSTAUI/ui/TextFilePropertiesDialog.properties" repository="/RSTAUI/master/RSTAUI/src/main/resources/org/fife/rsta/ui/TextFilePropertiesDialog.properties"/>
+                <mapping local="/source/RSTAUI/ui/search/Search.properties" repository="/RSTAUI/master/RSTAUI/src/main/resources/org/fife/rsta/ui/search/Search.properties"/>
+                <mapping local="/source/RSTAUI/ui/search/SearchToolBar.properties" repository="/RSTAUI/master/RSTAUI/src/main/resources/org/fife/rsta/ui/search/SearchToolBar.properties"/>
+            </repository>
+            <repository type="http" url="https://raw.githubusercontent.com/briacp">
+                <mapping local="/source/omt-package/omt-package.properties" repository="/plugin-omt-package/master/src/main/resources/omt-package.properties"/>
+		<mapping local="/source/omegat-plugin-fuzzy-issues/fuzzy-issues.properties" repository="/omegat-plugin-fuzzy-issues/master/src/main/resources/fuzzy-issues.properties"/>
+            </repository>
+            <repository type="http" url="https://raw.githubusercontent.com/OmegaT-L10N/***/master">
+                <mapping local="/tm/***.tmx" repository="/omegat/project_save.tmx"/>
+		<mapping local="/glossary/OmegaT-L10N.txt" repository="/glossary/glossary.txt"/>
+            </repository>
+        </repositories>
+    </project>
+</omegat>
